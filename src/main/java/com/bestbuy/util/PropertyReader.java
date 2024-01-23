@@ -3,9 +3,6 @@ package com.bestbuy.util;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-/**
- * Created by NP
- */
 public class PropertyReader {
 
     /*Rules fo implementing singleton design pattern

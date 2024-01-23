@@ -5,9 +5,6 @@ import com.bestbuy.util.PropertyReader;
 import io.restassured.RestAssured;
 import org.junit.BeforeClass;
 
-/**
- * Created by NP
- */
 public class TestBase {
     public static PropertyReader propertyReader;
 
